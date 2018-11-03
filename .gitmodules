@@ -1,3 +1,15 @@
 [submodule "MongoBDDataServer"]
 	path = MongoBDDataServer
 	url = https://github.com/oychao1988/MongoBDDataServer
+[submodule "ScheduleServer"]
+	path = ScheduleServer
+	url = https://github.com/oychao1988/ScheduleServer
+[submodule "SpiderServer"]
+	path = SpiderServer
+	url = https://github.com/oychao1988/SpiderServer
+[submodule "DataMiningServer"]
+	path = DataMiningServer
+	url = https://github.com/oychao1988/DataMiningServer
+[submodule "WebServer"]
+	path = WebServer
+	url = https://github.com/oychao1988/WebServer
